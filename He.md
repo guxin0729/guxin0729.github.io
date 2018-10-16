@@ -1,34 +1,15 @@
-#### pwd                           ÏÔÊ¾µ±Ç°Ä¿Â¼µÄÎÄ¼şºÍÎÄ¼ş¼Ğ
-#### git status                    ÏÔÊ¾µ±Ç°×´Ì¬
-#### touch ÎÄ¼şÃû.¸ñÊ½             ´´½¨Ò»¸öÎÄ¼ş
-#### git commit -m"Ãû×Ö"           "ÒªÌá½»µÄÄÚÈİÊÇÊ²Ã´"--"Ìá½»ÈÕÖ¾"½«ÎÒÃÇ×öµÄ²Ù×÷Ìá½»µ½±¾µØgit²Ö¿â
-#### git push -u origin master     (µÚÒ»±éÕâÃ´Ğ´,Ä¿µÄÊÇÉèÖÃÒÔºóÄ¬ÈÏ¶¼ÊÇÍùmaster·ÖÖ§ÉÏÌá½»´úÂë)
-#### git push                      ÒÔºóÖ±½ÓĞ´Õâ¸ö 
-#### ssh-keygen -t rsa -C "ÓÊÏä"   Èç¹ûÖ®Ç°ÓĞÆäËûÓÃ»§Á¬½Ó¹ıgit ,ĞèÒªÕâ²½ÖØĞÂÉèÖÃ
-#### git clone ÎÄ¼şÁ´½Ó(Ñ¡Ôñssh)   ¿½±´µ½±¾µØ
-#### ÃÜÔ¿ÔÚ C:\Users\Administrator\.ssh\id_rsa.pub
-#### git add ÎÄ¼şÃû.¸ñÊ½           ÎÄ¼şÂ·¾¶ ÈÃ´´½¨³öÀ´µÄÎÄ¼ş¸æËßgit²Ö¿âÒªÌí¼Ó
-#### mkdir Ãû×Ö                    ´´½¨ÎÄ¼ş¼Ğ
-![svnºÍgitÇø±ğ](https://upload-images.jianshu.io/upload_images/14466037-c45b57a75bcbcb3f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-git pull ±£Ö¤±¾µØ´úÂëÍ¬²½
-
-aaa.md  hello,world
-¶Ñ
-
-Õ» ÏÈ½øºó³ö
-Li.md 11 echo hhh github 1.1
-      11 echo aaa local  1.2
-
-git stash
-´æÔÚÕ»ÖĞ1.2
-local 1.1
-git pull
-git stash pop ³öÕ»
-local hhh aaa ´úÂë³åÍ»
-
+#### pwd                           æ˜¾ç¤ºå½“å‰ç›®å½•çš„æ–‡ä»¶å’Œæ–‡ä»¶å¤¹
+#### git status                    æ˜¾ç¤ºå½“å‰çŠ¶æ€
+#### touch æ–‡ä»¶å.æ ¼å¼             åˆ›å»ºä¸€ä¸ªæ–‡ä»¶
+#### git commit -m"åå­—"           "è¦æäº¤çš„å†…å®¹æ˜¯ä»€ä¹ˆ"--"æäº¤æ—¥å¿—"å°†æˆ‘ä»¬åšçš„æ“ä½œæäº¤åˆ°æœ¬åœ°gitä»“åº“
+#### git push -u origin master     (ç¬¬ä¸€éè¿™ä¹ˆå†™,ç›®çš„æ˜¯è®¾ç½®ä»¥åé»˜è®¤éƒ½æ˜¯å¾€masteråˆ†æ”¯ä¸Šæäº¤ä»£ç )
+#### git push                      ä»¥åç›´æ¥å†™è¿™ä¸ª 
+#### ssh-keygen -t rsa -C "é‚®ç®±"   å¦‚æœä¹‹å‰æœ‰å…¶ä»–ç”¨æˆ·è¿æ¥è¿‡git ,éœ€è¦è¿™æ­¥é‡æ–°è®¾ç½®
+#### git clone æ–‡ä»¶é“¾æ¥(é€‰æ‹©ssh)   æ‹·è´åˆ°æœ¬åœ°
+#### å¯†é’¥åœ¨ C:\Users\Administrator\.ssh\id_rsa.pub
+#### git add æ–‡ä»¶å.æ ¼å¼           æ–‡ä»¶è·¯å¾„ è®©åˆ›å»ºå‡ºæ¥çš„æ–‡ä»¶å‘Šè¯‰gitä»“åº“è¦æ·»åŠ 
+#### mkdir åå­—                    åˆ›å»ºæ–‡ä»¶å¤¹
+![svnå’ŒgitåŒºåˆ«](https://upload-images.jianshu.io/upload_images/14466037-c45b57a75bcbcb3f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
