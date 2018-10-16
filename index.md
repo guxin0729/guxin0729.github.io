@@ -2,7 +2,7 @@
 ## 点击下面的链接将进入对应内容的博客
 - git
 	- github blog build
- 	-[star](www.baidu.com)
+ 	-[star](https://github.com/guxin0729/guxin0729.github.io/blob/master/He.md)
 	- git 命令
 - linux
 - Hadoop	
