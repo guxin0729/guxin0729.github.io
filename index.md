@@ -29,6 +29,5 @@
 	
 	- [Hadoop完全分布式配置](https://github.com/guxin0729/guxin0729.github.io/blob/master/hadoop%E5%AE%8C%E5%85%A8%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE.md)
 
--[临时]
-       (guxin0729.github.io/123.md)
+	-[临时](https://github.com/guxin0729/guxin0729.github.io/blob/master/123.md)
       
